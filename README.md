@@ -1,1 +1,5 @@
-# Crop_Recommendation
+![1.jpg](https://github.com/username/repository-name/blob/main/path/to/1.jpg)
+![2.jpg](https://github.com/username/repository-name/blob/main/path/to/2.jpg)
+![3.jpg](https://github.com/username/repository-name/blob/main/path/to/3.jpg)
+![4.jpg](https://github.com/username/repository-name/blob/main/path/to/4.jpg)
+![5.jpg](https://github.com/username/repository-name/blob/main/path/to/5.jpg)
